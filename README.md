@@ -8,7 +8,7 @@ Supported input formats are auto-detected:
 | Format | Description |
 |---|---|
 | **LRC** | Classic line-synced `[mm:ss.xx]text` |
-| **LRC+** | Word/syllable-timed format ([spec](https://gitlab.com/Lalaggi/semitone/docs/LRCPLUS_SPEC_V3.md)) |
+| **LRC+** | Word/syllable-timed format ([spec](https://gitlab.com/Lalaggi/semitone/-/raw/main/docs/LRCPLUS_SPEC_V3.md)) |
 | **ELRC** | Extended LRC with inline `<mm:ss.xx>` word tags and optional `v2:` voice prefixes |
 | **TTML** | Word-timed XML (e.g. Apple Music) |
 | plain text | Passed through unchanged |
